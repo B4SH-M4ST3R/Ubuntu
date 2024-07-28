@@ -1,4 +1,10 @@
+# Extensions
+
 enable Flatpak and installl Extension-Manager first
+
+<a href="">
+    <img src="img/extension1.png" alt="Packaging status" align="right">
+</a>
 
 - Astra Monitor
 - Blur my Shell
