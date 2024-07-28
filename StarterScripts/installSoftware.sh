@@ -100,10 +100,14 @@ echo "OnionShare"
 sleep 1
 flatpak install flathub org.onionshare.OnionShare -y
 
-echo "Autopsy"
-sleep 1
-sudo snap install autopsy
-
 echo "Flatseal"
 sleep 1
 flatpak install flathub com.github.tchx84.Flatseal -y
+
+echo "Ghidra"
+sleep 1
+flatpak install flathub org.ghidra_sre.Ghidra -y
+
+echo "Autopsy"
+sleep 1
+sudo snap install autopsy
