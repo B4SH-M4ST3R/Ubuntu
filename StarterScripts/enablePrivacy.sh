@@ -47,9 +47,9 @@ sudo apt install gnome-software-plugin-flatpak
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 
 
-echo "Anpassung erfolgreich.."
+echo "Anpassung erfolgreich..."
 sleep 1
-echo "Neustart erfolgt um die Änderungen zu übernehmen.."
+echo "Neustart erfolgt um die Änderungen zu übernehmen..."
 sleep 1
 
 sudo reboot
